@@ -1,4 +1,4 @@
-train: ./train
-val: ./valid
+train: train
+val: valid
 nc: 2
 names: ['bad', 'good']
